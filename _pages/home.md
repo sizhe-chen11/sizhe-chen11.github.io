@@ -41,3 +41,6 @@ My research intersts lie in designing novel deep learning model and AI algorithm
 * 3rd Data & Analytics Olympics 1st Prize Award, Award Presenter, HSBC					2022
 * 2nd Data & Analytics Olympics 1st Prize Award, HSBC							2022
 * Global Engineering Team Excellence Award granted ¥3000, HSBC					2021
+
+# Interests
+Hiking, Snowboarding, Guitar
