@@ -2,6 +2,7 @@
 layout: home
 permalink: /
 ---
+# About Me
 
 My name is Jasmine(Sizhe) Chen. I'm currently a PhD student at the <ins>David Eccles School of Business</ins> with a concentration of Information Systems at <ins>University of Utah</ins> , under the supervision of [Professor Paul Hu](https://eccles.utah.edu/team/paul-hu/). I obtained my Masters Degree in Information Systems at <ins>Zicklin School of Business</ins> at <ins>Baruch College</ins>.
 
